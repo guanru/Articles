@@ -1,0 +1,7 @@
+[submodule "latte_blog/themes/JuiceBar"]
+	path = latte_blog/themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git
+[submodule "latte_blog/themes/hermit-v2"]
+	path = latte_blog/themes/hermit-v2
+	url = https://github.com/1bl4z3r/hermit-V2
+	branch = main
